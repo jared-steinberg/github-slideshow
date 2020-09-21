@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Art is a line around your thoughts."
 Use the left arrow to go back!
